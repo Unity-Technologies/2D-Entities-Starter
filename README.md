@@ -4,7 +4,7 @@
 
 ## Getting Started
 
-For information on how to get started and information about the APIs, see 2D Entities user manual [LINK PENDING].
+For information on how to get started and information about the APIs, see [2D Entities user manual](https://docs.unity3d.com/Packages/com.unity.2d.entities@latest).
 
 For additional information about Project Tiny, see the [Project Tiny Documentation](https://docs.google.com/document/d/1A8hen2hLFY5FLkC5gd3JP2Z-IpHfnAX-CpYLK3aOdwA).
 
