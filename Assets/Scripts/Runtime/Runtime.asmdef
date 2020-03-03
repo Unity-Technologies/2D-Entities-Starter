@@ -1,23 +1,28 @@
-﻿{
-    "name": "Tiny2D.Authoring",
+{
+    "name": "Runtime",
     "references": [
-        "Unity.Burst",
-        "Unity.Collections",
         "Unity.Entities",
-        "Unity.Entities.Hybrid",
-        "Unity.Mathematics",
         "Unity.Transforms",
+        "Unity.Mathematics",
+        "Unity.Collections",
+        "Unity.Jobs",
+        "Unity.Tiny.Core",
+        "Unity.Tiny.Rendering",
+        "Unity.Tiny.Audio",
+        "Unity.Tiny.Input",
+        "Unity.Tiny.EntryPoint",
+        "Unity.Tiny.Main",
+        "Unity.Burst",
         "Unity.2D.Entities",
         "Unity.2D.Entities.Runtime",
-        "Unity.2D.Entities.Physics",
-        "Tiny2D"
+        "Unity.2D.Entities.Physics"
     ],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": true,
     "overrideReferences": false,
     "precompiledReferences": [],
-    "autoReferenced": false,
+    "autoReferenced": true,
     "defineConstraints": [],
     "versionDefines": [],
     "noEngineReferences": false
