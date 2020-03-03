@@ -2,13 +2,15 @@
 
 2D Entities Starter is a template project, which has everything setup for you to get started with the 2D Entities package.
 
-The package provides tools to work with 2D content, such as Sprites and Physics 2D. This package works exclusively with Project Tiny.
-
 ## Getting Started
 
 For information on how to get started and information about the APIs, see 2D Entities user manual [LINK PENDING].
 
 For additional information about Project Tiny, see the [Project Tiny Documentation](https://docs.google.com/document/d/1A8hen2hLFY5FLkC5gd3JP2Z-IpHfnAX-CpYLK3aOdwA).
+
+## What is the 2D Entities package?
+
+The package provides tools to work with 2D content, such as Sprites and Physics 2D. This package works exclusively with Project Tiny.
 
 ## Discussion
 
