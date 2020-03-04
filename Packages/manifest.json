@@ -11,7 +11,7 @@
     "com.unity.platforms.ios": "0.1.8-preview.3",
     "com.unity.platforms.linux": "0.1.8-preview",
     "com.unity.platforms.macos": "0.1.8-preview",
-    "com.unity.platforms.web": "0.1.8-preview",
+    "com.unity.platforms.web": "0.1.8-preview.1",
     "com.unity.platforms.windows": "0.1.8-preview",
     "com.unity.test-framework": "1.1.11",
     "com.unity.textmeshpro": "2.0.1",
